@@ -13,7 +13,6 @@ Use an studentsay of 20 components of type studentType.
 */ 
 
 
-int high[4]; 
 
 struct studentType{ 
 
